@@ -16,10 +16,10 @@
   dependencies:
     bottleneck "^2.0.0"
 
-"@grammyjs/types@^2.11.0":
-  version "2.11.2"
-  resolved "https://registry.yarnpkg.com/@grammyjs/types/-/types-2.11.2.tgz#55c7359e10b4b9970b55cb3a7fe7d9b22c67590a"
-  integrity sha512-qglunvUIL8mz/TS0vqdcg2uABwM34UkSkUQcZVWjxWH34c9ptsMvY3zO0n9P0eLBaRLV4BwnD8MBx35BN2FFNw==
+"@grammyjs/types@^2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@grammyjs/types/-/types-2.12.1.tgz#18d021e00928d75c6ee15c520231fd209cdf00b4"
+  integrity sha512-1hO6esfdo42mSvyArPHrlgSY/fgerTuVNAbSD5ZKHS/w5ZyrkA4pRp3VHK2XE3fm9/uMBT/39i8pPvx0+Kbxjg==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -42,10 +42,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@types/node@^18.11.18":
-  version "18.11.18"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.18.tgz#8dfb97f0da23c2293e554c5a50d61ef134d7697f"
-  integrity sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA==
+"@types/node@^18.14.1":
+  version "18.14.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.14.1.tgz#90dad8476f1e42797c49d6f8b69aaf9f876fc69f"
+  integrity sha512-QH+37Qds3E0eDlReeboBxfHbX9omAcBCXEzswCu6jySP642jiM3cYSIkU/REqwhCUqXdonHFuBfJDiAJxMNhaQ==
 
 abort-controller@^3.0.0:
   version "3.0.0"
@@ -246,11 +246,11 @@ globby@^11.0.4:
     slash "^3.0.0"
 
 grammy@^1.13.1:
-  version "1.13.1"
-  resolved "https://registry.yarnpkg.com/grammy/-/grammy-1.13.1.tgz#f55defc1066d41351b6c8160a3d68c83a9102d19"
-  integrity sha512-kAxja6QDjw5oTJOFtrqhaQlLfCco3AwO4Mb4YRdP8A+v59roJA8mgEd0S5dOgFPyn74bPp8VWaKCI+of8wnPow==
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/grammy/-/grammy-1.14.1.tgz#63ce9ede80379579415472dae870fcf762fc006d"
+  integrity sha512-hFIW2DE2xF5yuYL5a65i/0lvqsAwQsIaJO64Fk0N7v696nTSu7g0LqnQnHapmydRkNMoZVbwn25M80LKZzUkxw==
   dependencies:
-    "@grammyjs/types" "^2.11.0"
+    "@grammyjs/types" "^2.12.1"
     abort-controller "^3.0.0"
     debug "^4.3.4"
     node-fetch "^2.6.7"
@@ -320,9 +320,9 @@ node-fetch@^2.6.7:
     whatwg-url "^5.0.0"
 
 node-html-parser@^6.1.4:
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-6.1.4.tgz#763cd362497e427d51fc73dda3dcd8ac52ba85a3"
-  integrity sha512-3muP9Uy/Pz7bQa9TNYVQzWJhNZMqyCx7xJle8kz2/y1UgzAUyXXShc1IcPaJy6u07CE3K5rQcRwlvHzmlySRjg==
+  version "6.1.5"
+  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-6.1.5.tgz#c819dceb13a10a7642ff92f94f870b4f77968097"
+  integrity sha512-fAaM511feX++/Chnhe475a0NHD8M7AxDInsqQpz6x63GRF7xYNdS8Vo5dKsIVPgsOvG7eioRRTZQnWBrhDHBSg==
   dependencies:
     css-select "^5.1.0"
     he "1.2.0"

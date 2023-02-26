@@ -3,6 +3,7 @@
     "target": "es6",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "resolveJsonModule": true,
     "module": "commonjs",
     "moduleResolution": "node",
     "baseUrl": "src",
